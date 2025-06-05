@@ -24,3 +24,10 @@
   <li>Finsihed Joke Gen</li>
 </ul>
 <p>Today i was busy coming home late and studying for test tommorow so i had a little bit of time to code so i decided just to finish the mini project since i wanted to do some code while not stressing out and something that is quick and easy.</p>
+<hr>
+<h1>Day 4</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Started memory gmae with js</li>
+</ul>
+<p>Honestly im very tired and couldnt code right after coming home so i did a lil of sum.</p>
