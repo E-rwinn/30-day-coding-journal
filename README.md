@@ -31,3 +31,8 @@
   <li>Started memory gmae with js</li>
 </ul>
 <p>Honestly im very tired and couldnt code right after coming home so i did a lil of sum.</p>
+<hr>
+<h1>Day 5</h1>
+<h3>What i did:</h3>
+<ul>Finished Memory Game </ul>
+<p>Lowkey just finsihed the game and did not else because i been to stressed lately due to many exams so i might not code or try do alot for this week but once school is over im gonna code more throughout the day and challenging myself to more projects and get into a more deeper understanding of javascript and hopefully other languages aswell. </p>
