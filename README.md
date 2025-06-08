@@ -49,3 +49,11 @@
   <li>Planning on recipe page</li>
 </ul>
 <p>Hmm, today was not as stressful as it usally is. I began by creating a new repo for my project that i would be doing tommorow, i noticed there was an issue in my readME so i decided to fix it aswell as adding my <strong>new</strong> portfolio website, yay! while doing that i got the idea to challenge my self to do a recipe page from scratch, but i plan on doing that later on when i have more freetime since that would possibly take more than 1 day, but yea that what i did for today :}.</p>
+<hr>
+<h1>Day 7</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Finised Password Generator</li>
+  <li>Publsished Password Generator</li>
+</ul>
+<p>Well, today i started like at 3pm finished the password generator by like 6pm and just trying to design a button where it linka to my socials.</p>
