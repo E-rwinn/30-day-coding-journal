@@ -57,3 +57,10 @@
   <li>Publsished Password Generator</li>
 </ul>
 <p>Well, today i started like at 3pm finished the password generator by like 6pm and just trying to design a button where it linka to my socials.</p>
+<hr>
+<h1>Day 8</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Organized HTML File</li>
+</ul>
+<p>I just deleted unused tages in my portfolio html,css</p>
