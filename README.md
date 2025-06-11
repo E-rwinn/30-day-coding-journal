@@ -64,3 +64,12 @@
   <li>Organized HTML File</li>
 </ul>
 <p>I just deleted unused tages in my portfolio html,css</p>
+<hr>
+<h1>Day 9</h1>
+<h3>What i did:</h3>
+<ul>
+  <li> Finsihed Organizing HTML File</li>
+  <li>Created new project section box</li>
+</ul>
+<p>I created a new project box where i can put all of my projects in my portfolio, tho im still considering if i should honsestly keep the box since it doesnt really go well with my portfolio layout </p>
+
