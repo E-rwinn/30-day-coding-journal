@@ -72,6 +72,7 @@
   <li>Created new project section box</li>
 </ul>
 <p>I created a new project box where i can put all of my projects in my portfolio, tho im still considering if i should honsestly keep the box since it doesnt really go well with my portfolio layout </p>
+<hr>
 <h1>Day 10</h1>
 <h3>What i did:</h3>
 <ul>
@@ -80,11 +81,24 @@
 </ul>
 <p>Honestly, i havent had that much time to code due to me having finals so that affected from me coding more often since im studying more than coding. But i have been wanting to create a usefull js app where its responsive for many devices, and something that would benefit me and users, and i want the app to have a nice friendly UI/UX apperance.</p>
 <p><strong>NOTE:</strong>I do plan on starting coding more ending this week since i will most likely be out of schhool and would have more freetime for myself.</p>
+<hr>
 <h1>Day 11</h1>
 <h3>What i did:</h3>
 <ul>
   <li>lorem</li>
 </ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
-
-
+<hr>
+<h1>Day 11</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>lorem</li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+<hr>
+<h1>Day 12</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Lorem ipsum dolor sit amet</li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
