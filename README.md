@@ -102,3 +102,11 @@
   <li>Lorem ipsum dolor sit amet</li>
 </ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+<hr>
+<h1>Day 13</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Started a <i></i>mini</i> Clicker Game</li>
+  <li>Planning/Designing a future <strong>Game</strong> that would be playable </li>
+</ul>
+<p>Yesterday i started a mini clicker game since i wanna code and stay active while still wanting to design a game in figma.</p>
