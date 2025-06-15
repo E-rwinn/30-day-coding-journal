@@ -110,3 +110,19 @@
   <li>Planning/Designing a future <strong>Game</strong> that would be playable </li>
 </ul>
 <p>Yesterday i started a mini clicker game since i wanna code and stay active while still wanting to design a game in figma.</p>
+<hr>
+<h1>Day 14</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Added Some changes to my portfolio</li>
+</ul>
+<p>At the moment i changes alot of my portfolio since i honestly dont like my portfolio so i deciding if i should make a new one <strong>But</strong> i been wanting to take a course for all of the markup languages and programming languages like html,css,js because i feel like i havent gotten a real understaning a html, i have but i feel like i have forgotten most of the tags meaning. Like i feel like i cant create a a unique project and everytime i do i just cant structure the html,css like the figma design</p>
+<p><strong>NOTE:</strong>I plan on:</p>
+<ul>
+  <li>Dismiss mini project "Clicking Game" to a future project.</li>
+  <li>Dismiss Any other projects i have that i honestly dont know.</li>
+  <li>Continue to design my game on my freetime</li>
+  <li>Get a further understanding in web developement in HTML,CSS,JS etc </li>
+  <li>Watch Videos On HTML CSS JS</li>
+</ul>
+
