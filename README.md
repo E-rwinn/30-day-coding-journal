@@ -89,13 +89,6 @@
 </ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
 <hr>
-<h1>Day 11</h1>
-<h3>What i did:</h3>
-<ul>
-  <li>lorem</li>
-</ul>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
-<hr>
 <h1>Day 12</h1>
 <h3>What i did:</h3>
 <ul>
@@ -116,7 +109,7 @@
 <ul>
   <li>Added Some changes to my portfolio</li>
 </ul>
-<p>At the moment i changes alot of my portfolio since i honestly dont like my portfolio so i deciding if i should make a new one <strong>But</strong> i been wanting to take a course for all of the markup languages and programming languages like html,css,js because i feel like i havent gotten a real understaning a html, i have but i feel like i have forgotten most of the tags meaning. Like i feel like i cant create a a unique project and everytime i do i just cant structure the html,css like the figma design</p>
+<p>At the moment i changed alot of my portfolio since i honestly dont like my portfolio so im deciding if i should make a new one <strong>But</strong> i been wanting to take a course for all of the markup languages and programming languages like html,css,js because i feel like i havent gotten a real understaning a html, i have but i feel like i have forgotten most of the tags meaning. Like i feel like i cant create a a unique project and everytime i do i just cant structure the html,css like the figma design</p>
 <p><strong>NOTE:</strong>I plan on:</p>
 <ul>
   <li>Dismiss mini project "Clicking Game" to a future project.</li>
@@ -125,4 +118,13 @@
   <li>Get a further understanding in web developement in HTML,CSS,JS etc </li>
   <li>Watch Videos On HTML CSS JS</li>
 </ul>
+<hr>
+<h1>Day 15</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Got some undertanding in js like varibales and declaring one and if, else statement</li>
+</ul>
+<p>Writing this 2 days later.. on that day i watched a vudeo on js on game development i actually got to undertand some basics like declaring vars by let, const and var. and got actually a depper understanding on if else statements and key words of js like strings, and booleans.</p>
+<hr>
+
 
