@@ -126,5 +126,11 @@
 </ul>
 <p>Writing this 2 days later.. on that day i watched a vudeo on js on game development i actually got to undertand some basics like declaring vars by let, const and var. and got actually a depper understanding on if else statements and key words of js like strings, and booleans.</p>
 <hr>
-
+<h1>Day 16</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Watched "Learn Javascript with this project", on youtube</li>
+  <li>Started a recipe page using html</li>
+</ul>
+<p>Actually i started the recipe page on day 15. i started a recipe page since i got some insporation on tiktok so i decided to start one since it gonna let me get a understanding of html again since i said i wanted to watch videos on css and html since i wanted to get a rewind of it again. im honestly very exited to start this project since im not gonna ruch it and take my time, and gonna stick with this project for a while.</p>
 
