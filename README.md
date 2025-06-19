@@ -133,4 +133,10 @@
   <li>Started a recipe page using html</li>
 </ul>
 <p>Actually i started the recipe page on day 15. i started a recipe page since i got some insporation on tiktok so i decided to start one since it gonna let me get a understanding of html again since i said i wanted to watch videos on css and html since i wanted to get a rewind of it again. im honestly very exited to start this project since im not gonna ruch it and take my time, and gonna stick with this project for a while.</p>
-
+<hr>
+<h1>Day 17</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Lorem ipsum dolor sit amet</li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
