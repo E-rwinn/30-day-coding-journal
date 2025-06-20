@@ -147,3 +147,11 @@
   <li>On Day 17-18 i Started and Finsihed Nav Bars on my recipe web project</li>
 </ul>
 <p>Writing this 1 day later, on that day i began my nav bar since i didnt want to keep my recipe page just with html and added some css so i began by creating nav bars with some features like deopdowns</p>
+<hr>
+<h1>Day 19</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Started - Finsihed ... Home section for my introduction of my website</li>
+  <li>Started later on the day on my recipe section</li>
+</ul>
+<p>Today in the morning i started on my home section laying out the img and the introduction of my website, later on the day i decided i wanted to start the recipe page. i started laying out the divs or the card box where the image of the food is displayed and the title and the link. All tho it has some issues since the box is not on the right size of the image making it look very bad.</p>
