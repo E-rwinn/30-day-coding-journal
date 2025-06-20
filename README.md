@@ -140,3 +140,10 @@
   <li>Lorem ipsum dolor sit amet</li>
 </ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+<hr>
+<h1>Day 18</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>On Day 17-18 i Started and Finsihed Nav Bars on my recipe web project</li>
+</ul>
+<p>Writing this 1 day later, on that day i began my nav bar since i didnt want to keep my recipe page just with html and added some css so i began by creating nav bars with some features like deopdowns</p>
