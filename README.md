@@ -155,3 +155,10 @@
   <li>Started later on the day on my recipe section</li>
 </ul>
 <p>Today in the morning i started on my home section laying out the img and the introduction of my website, later on the day i decided i wanted to start the recipe page. i started laying out the divs or the card box where the image of the food is displayed and the title and the link. All tho it has some issues since the box is not on the right size of the image making it look very bad.</p>
+<hr>
+<h1>Day 20</h1>
+<h3>What i did:</h3>
+<ul>
+  <li>Lorem ipsum dolor sit amet</li>
+</ul>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
