@@ -162,3 +162,14 @@
   <li>Lorem ipsum dolor sit amet</li>
 </ul>
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+<hr>
+<h1>Day 21</h1>
+<h3>What I did:</h3>
+<ul>
+  <li>Improved the website’s navigation bar for better desktop and mobile responsiveness</li>
+  <li>Implemented a hamburger menu toggle for mobile devices using JavaScript</li>
+  <li>Fixed the display issue by hiding the large hero image on mobile screens</li>
+  <li>Refined CSS styles to maintain consistent design across different screen sizes</li>
+  <li>Tested and adjusted dropdown menus for mobile usability</li>
+</ul>
+<p>Today, I focused on enhancing the user experience on both desktop and mobile devices by working on the navigation bar’s responsiveness and interactivity. I also addressed layout issues, particularly ensuring that large images do not break the mobile layout by hiding them on smaller screens. Overall, progress was made in making the site more user-friendly and visually consistent.</p>
