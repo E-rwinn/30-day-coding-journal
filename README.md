@@ -173,3 +173,13 @@
   <li>Tested and adjusted dropdown menus for mobile usability</li>
 </ul>
 <p>Today, I focused on enhancing the user experience on both desktop and mobile devices by working on the navigation bar’s responsiveness and interactivity. I also addressed layout issues, particularly ensuring that large images do not break the mobile layout by hiding them on smaller screens. Overall, progress was made in making the site more user-friendly and visually consistent.</p>
+<hr>
+<h1>Day 22</h1>
+<h3>What I did:</h3>
+<ul>
+  <li>Continued refining the mobile navigation menu for better usability</li>
+  <li>Debugged and tested CSS to properly hide images on mobile devices</li>
+  <li>Worked on improving the overall mobile responsiveness of the site</li>
+  <li>Planned to revisit complex navigation menu issues after taking a break</li>
+</ul>
+<p>Today, I focused on fixing and testing mobile-specific issues, especially around the navigation menu and image visibility. I made progress but decided to pause on the more complex navigation fixes to avoid overloading my commits and approach it fresh later.</p>
