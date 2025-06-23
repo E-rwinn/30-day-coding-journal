@@ -104,7 +104,7 @@
 </ul>
 <p>Yesterday i started a mini clicker game since i wanna code and stay active while still wanting to design a game in figma.</p>
 <hr>
-<h1>Day 14</h1>
+<h1>Day 14 <strong>ANNOUNCEMENT!</strong></h1>
 <h3>What i did:</h3>
 <ul>
   <li>Added Some changes to my portfolio</li>
@@ -183,3 +183,15 @@
   <li>Planned to revisit complex navigation menu issues after taking a break</li>
 </ul>
 <p>Today, I focused on fixing and testing mobile-specific issues, especially around the navigation menu and image visibility. I made progress but decided to pause on the more complex navigation fixes to avoid overloading my commits and approach it fresh later.</p>
+<hr>
+<h1>Day 23</h1>
+<h3>What I did:</h3>
+<ul>
+  <li>Created a chicken tamales recipe in HTML format with clean structure</li>
+  <li>Designed a modern contact section with a clean UI and custom green theme</li>
+  <li>Connected the contact form to Formspree to send submissions to my Gmail</li>
+  <li>Refined hover colors and design for buttons</li>
+  <li>Added GitHub, portfolio image, and social media buttons to the contact page</li>
+  <li>Discussed when and why to reuse a footer on all pages for consistency</li>
+</ul>
+<p>Today was all about polishing and connecting key parts of the recipe website. I built a clean and modern contact form that matches my site's color theme <code>rgb(0, 169, 8)</code>, and connected it to Formspree so submissions go straight to my Gmail. I also added links to my GitHub, portfolio, and socials to help users find more about me. We wrapped up by confirming that I should use a shared footer across all my pages for consistency and professionalism. This session helped level up both design and structure!</p>
