@@ -195,3 +195,13 @@
   <li>Discussed when and why to reuse a footer on all pages for consistency</li>
 </ul>
 <p>Today was all about polishing and connecting key parts of the recipe website. I built a clean and modern contact form that matches my site's color theme <code>rgb(0, 169, 8)</code>, and connected it to Formspree so submissions go straight to my Gmail. I also added links to my GitHub, portfolio, and socials to help users find more about me. We wrapped up by confirming that I should use a shared footer across all my pages for consistency and professionalism. This session helped level up both design and structure!</p>
+<hr>
+<h1>Day 24</h1>
+<h3>What i did:</h3>
+<ul>
+ <li>Polished the recipes UI to modern clean design.</li>
+ <li>Created responsive layout for taco, rice, churros, and tamales recipes.</li>
+ <li>Separated CSS into individual files for easier maintenance.</li>
+ <li>Tested mobile responsiveness on different devices.</li>
+</ul>
+<p>Today, I focused on improving the user experience and visual appeal of the recipe pages. I learned how to use CSS box shadows, border-radius, and Google Fonts effectively. The pages are easier to read on both desktop and mobile.</p>
