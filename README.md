@@ -212,3 +212,11 @@
   <li>Added custom footers to every recipe page for better consistency and user experience</li>
 </ul>
 <p>Today I went through each of the recipe pages and added footers to them. I wanted the site to feel more complete and connected, so now each page ends with a clean section that matches the rest of the design. It’s a small detail, but it makes the site feel more polished and user-friendly.</p>
+<hr>
+<h1>Day 26</h1>
+<h3>What I did:</h3>
+<ul>
+  <li>Fixed the navigation bar on mobile screens</li>
+</ul>
+<p>Today I made the navigation bar fully responsive for phones. I adjusted the layout using media queries so it now displays cleanly on smaller screens, with better spacing and alignment for a smoother user experience. This helps make my portfolio site more mobile-friendly and professional.</p>
+
