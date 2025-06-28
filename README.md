@@ -219,4 +219,14 @@
   <li>Fixed the navigation bar on mobile screens</li>
 </ul>
 <p>Today I made the navigation bar fully responsive for phones. I adjusted the layout using media queries so it now displays cleanly on smaller screens, with better spacing and alignment for a smoother user experience. This helps make my portfolio site more mobile-friendly and professional.</p>
+<hr>
+<h1>Day 27</h1>
+<h3>What I did:</h3>
+<ul>
+  <li>Created a new GitHub repository to hold my next project</li>
+  <li>Did a little dev setup and cleanup</li>
+  <li>Didn’t dive into brainstorming yet — still wide open</li>
+  <li>Took today pretty easy overall, just keeping the habit going</li>
+</ul>
+<p>Today was a relaxed one. I didn’t get deep into planning or coding, but I showed up, kept the momentum, and gave myself space to reset before jumping into something new.</p>
 
