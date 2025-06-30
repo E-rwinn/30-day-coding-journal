@@ -238,3 +238,13 @@
   <li>Took today pretty easy overall, just keeping the habit going</li>
 </ul>
 <p>Today was a relaxed one. I didn’t get deep into planning or coding, but I showed up, kept the momentum, and gave myself space to reset before jumping into something new.</p>
+<hr>
+<h1>Day 29</h1>
+<h3>What I did:</h3>
+<ul>
+  <li>Still sitting on the new repo — haven’t picked a project yet</li>
+  <li>Scrolled through some old ideas but nothing clicked today</li>
+  <li>Mostly just keeping the streak alive and checking in</li>
+  <li>Took another light day to reset and not rush it</li>
+</ul>
+<p>Another chill day. No pressure — just giving myself time to figure out what’s next without forcing it. Sometimes you need space before the next idea hits.</p>
