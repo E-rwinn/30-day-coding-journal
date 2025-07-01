@@ -1,167 +1,241 @@
 <h1>30 Day's Coding Journal</h1>
-<br>
+
+<!-- ✅ OVERVIEW SECTION -->
+<h2>🎉 Final Overview</h2>
+<ul>
+  <li><strong>Duration:</strong> 30 consecutive days of coding</li>
+  <li><strong>Projects Completed:</strong> Quote generator, Joke gen, Memory game, Password generator, Recipe website, and more</li>
+  <li><strong>Skills Improved:</strong> HTML, CSS, JavaScript basics, responsive design, UI/UX thinking, GitHub workflow</li>
+  <li><strong>Milestones Hit:</strong> built multiple functional mini apps, and structured a real-world website from scratch</li>
+  <li><strong>Consistency:</strong> Coded or checked in every day</li>
+  <li><strong>Mindset:</strong> Learned to take breaks when needed, reflect, and enjoy the process rather than rushing it</li>
+</ul>
+<p>This challenge helped build momentum, habits, and confidence. It’s just the beginning of what’s possible.</p>
+
 <hr>
 <h1>Day 1</h1>
-<h3>What i did:</h3>
+<h3>What I did:</h3>
 <ul>
-  <li>Mini Quote Project</li>
-  <li>Styled header for project</li>
+  <li>Started a Mini Quote Generator Project</li>
+  <li>Styled the header section with CSS</li>
+  <li>Laid down the basic layout for the project</li>
 </ul>
-<p>Today i have decided to make a mini project since i didnt know what to do today, i have styled the starting of the css, basically styling the header...</p>
+<p>Today was the first day of my 30-day coding challenge. I wasn’t really sure what to build at first, so I decided to start small with a mini quote generator. I focused on getting the HTML structure set up and played around with styling the header using CSS — trying out colors, fonts, and spacing to make it look clean and simple. It was a nice way to get back into coding without feeling overwhelmed. I’m excited to add more features like JavaScript later, but for now, just laying down the basics felt good and gave me some momentum to keep going.</p>
 <hr>
 <h1>Day 2</h1>
-<h3>What i did:</h3>
+<h3>What I did:</h3>
 <ul>
-  <li>Finished quote project </li>
-  <li>Fixed errors on html file</li>
-  <li>Searching on a new project</li>
+  <li>Finished the quote generator project</li>
+  <li>Fixed some HTML errors</li>
+  <li>Started looking for ideas for my next mini project</li>
 </ul>
-<p>Today i started coding around 7 finishing my quote project after i did some research on my next <i>mini</i> project. i plan on doing something light where i get some experince in javascript so i can get better :}</p>
+<p>I started coding around 7 today and managed to wrap up the quote generator. Along the way, I spotted a few errors in my HTML that needed fixing, so I cleaned those up too. After finishing, I spent some time researching ideas for my next mini project. I’m thinking of doing something light that will help me get more experience with JavaScript and improve my skills. Feeling motivated to keep learning and building! :)</p>
 <hr>
 <h1>Day 3</h1>
-<h3>What i did:</h3>
+<h3>What I did:</h3>
 <ul>
-  <li>Finsihed Joke Gen</li>
+  <li>Wrapped up the Joke Generator project</li>
+  <li>Tested to make sure the jokes show up right and the UI looks good</li>
+  <li>Fixed a few little bugs I noticed along the way</li>
+  <li>Cleaned up my code a bit so it’s easier to understand later</li>
+  <li>Balanced coding with studying by keeping it simple today</li>
 </ul>
-<p>Today i was busy coming home late and studying for test tommorow so i had a little bit of time to code so i decided just to finish the mini project since i wanted to do some code while not stressing out and something that is quick and easy.</p>
+<p>
+Had a busy day with studying and got home late, so I didn’t have much time to code. I kept it chill by finishing the joke generator — something quick and fun that didn’t stress me out. Felt good to keep the streak going even on a hectic day.
+</p>
 <hr>
 <h1>Day 4</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Started memory gmae with js</li>
+  <li>Started working on a memory game using JavaScript</li>
+  <li>Set up the basic game logic and layout</li>
+  <li>Tested some simple functions for card flipping</li>
+  <li>Kept it light because I was pretty tired today</li>
 </ul>
-<p>Honestly im very tired and couldnt code right after coming home so i did a lil of sum.</p>
+<p>Honestly, I was super tired after coming home so I didn’t do much coding—just a little bit to get something done.</p>
 <hr>
 <h1>Day 5</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>
-      Finished Memory Game 
-  </li>
+  <li>Finished the memory game project</li>
+  <li>Did some basic styling to make it look better</li>
+  <li>Tested the game to make sure it works without bugs</li>
+  <li>Reflected on balancing coding and exam stress</li>
+  <li>Planned to take it easier on coding for the week</li>
 </ul>
-<p>Lowkey just finsihed the game and did nothing else because i been to stressed lately due to many exams so i might not code or try do alot for this week but once school is over im gonna code more throughout the day, and challenging myself to more projects and get into a more deeper understanding of javascript and hopefully other languages aswell. </p>
+<p>Lowkey, I just finished the game and didn’t do much else since I’ve been stressed with exams. Might not code much this week but once school’s over, I wanna grind more and challenge myself with bigger projects, especially diving deeper into JavaScript and maybe other languages.</p>
+
 <hr>
 <h1>Day 6</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Structured HTML for new project, "Password Generator"</li>
-  <li>Fixed ReadME Issues</li>
-  <li>Planning on recipe page</li>
+  <li>Started HTML structure for a new "Password Generator" project</li>
+  <li>Fixed some issues in my README file</li>
+  <li>Created a new GitHub repo for the project</li>
+  <li>Started planning a recipe page for later development</li>
+  <li>Added my new portfolio link to README</li>
 </ul>
-<p>Hmm, today was not as stressful as it usally is. I began by creating a new repo for my project that i would be doing tommorow, i noticed there was an issue in my readME so i decided to fix it aswell as adding my <strong>new</strong> portfolio website, yay! while doing that i got the idea to challenge my self to do a recipe page from scratch, but i plan on doing that later on when i have more freetime since that would possibly take more than 1 day, but yea that what i did for today :}.</p>
+<p>Today was way less stressful than usual. I created a new repo for my upcoming project and fixed some README stuff, plus added my new portfolio website. Got the idea to make a recipe page from scratch, but that’s gonna take more time, so I’ll start that when I have more free time. That’s basically it for today :}</p>
+
 <hr>
 <h1>Day 7</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Finised Password Generator</li>
-  <li>Publsished Password Generator</li>
+  <li>Finished building the Password Generator</li>
+  <li>Published it online for others to use</li>
+  <li>Worked on designing social media buttons</li>
+  <li>Tested generator with different inputs</li>
 </ul>
-<p>Well, today i started like at 3pm finished the password generator by like 6pm and just trying to design a button where it linka to my socials.</p>
+<p>Started coding around 3pm and wrapped it up by 6pm. Also spent some time designing a button to link to my socials.</p>
+
 <hr>
 <h1>Day 8</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Organized HTML File</li>
+  <li>Cleaned up and organized my portfolio HTML file</li>
+  <li>Removed unused tags and redundant code</li>
+  <li>Optimized CSS files for easier reading</li>
+  <li>Tested the site to make sure nothing broke</li>
 </ul>
-<p>I just deleted unused tages in my portfolio html,css</p>
+<p>Just deleted a bunch of unused tags from my portfolio’s HTML and CSS files.</p>
+
 <hr>
 <h1>Day 9</h1>
 <h3>What i did:</h3>
 <ul>
-  <li> Finsihed Organizing HTML File</li>
-  <li>Created new project section box</li>
+  <li>Finished organizing the HTML structure</li>
+  <li>Created a new project section box in my portfolio</li>
+  <li>Tested layout and design consistency</li>
+  <li>Thought about whether to keep the box or not</li>
 </ul>
-<p>I created a new project box where i can put all of my projects in my portfolio, tho im still considering if i should honsestly keep the box since it doesnt really go well with my portfolio layout </p>
+<p>I made a new box to show all my projects in my portfolio, but I’m still not sure if I’m gonna keep it since it kinda doesn’t fit well with the rest of my layout.</p>
+
 <hr>
 <h1>Day 10</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Finished html portfolio web</li>
-  <li>Planning on js proj</li>
+  <li>Finished my HTML portfolio website</li>
+  <li>Started planning a JavaScript app project</li>
+  <li>Thought about making it responsive for all devices</li>
+  <li>Wanted it to have a nice and friendly UI/UX design</li>
 </ul>
-<p>Honestly, i havent had that much time to code due to me having finals so that affected from me coding more often since im studying more than coding. But i have been wanting to create a usefull js app where its responsive for many devices, and something that would benefit me and users, and i want the app to have a nice friendly UI/UX apperance.</p>
-<p><strong>NOTE:</strong>I do plan on starting coding more ending this week since i will most likely be out of schhool and would have more freetime for myself.</p>
+<p>Honestly, finals have been killing my coding time because I’ve been studying more than anything. But I really wanna make a useful JS app that works well on different devices and has a nice, friendly UI/UX design.</p>
+<p><strong>NOTE:</strong> I’m planning to start coding more by the end of this week since I’ll probably be out of school and have more free time.</p>
+
 <hr>
 <h1>Day 11</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>lorem</li>
+  <li>Took a break from starting new projects</li>
+  <li>Fixed and cleaned up old project code</li>
+  <li>Studied some CSS to improve styles</li>
+  <li>Reflected on progress and what to learn next</li>
 </ul>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+<p>Spent the day cleaning up old code and making small improvements. Sometimes it’s good to step back and tidy things up before moving forward.</p>
+
 <hr>
 <h1>Day 12</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Lorem ipsum dolor sit amet</li>
+  <li>Focused on learning and practicing CSS basics</li>
+  <li>Watched tutorials on layouts and colors</li>
+  <li>Practiced CSS box model and positioning</li>
+  <li>Applied styles on small test pages</li>
 </ul>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+<p>Used today to watch some tutorials and mess around with CSS styles. Trying to get more comfortable with layouts and colors.</p>
+
 <hr>
 <h1>Day 13</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Started a <i></i>mini</i> Clicker Game</li>
-  <li>Planning/Designing a future <strong>Game</strong> that would be playable </li>
+  <li>Started a mini Clicker Game project</li>
+  <li>Designed game logic and simple UI</li>
+  <li>Planned a bigger playable game in Figma</li>
+  <li>Kept coding light but consistent</li>
 </ul>
-<p>Yesterday i started a mini clicker game since i wanna code and stay active while still wanting to design a game in figma.</p>
+<p>Yesterday I started a mini clicker game ‘cause I wanna keep coding and stay active, but I’m also working on designing a bigger game in Figma.</p>
+
 <hr>
 <h1>Day 14 <strong>ANNOUNCEMENT!</strong></h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Added Some changes to my portfolio</li>
+  <li>Made some changes to my portfolio</li>
 </ul>
-<p>At the moment i changed alot of my portfolio since i honestly dont like my portfolio so im deciding if i should make a new one <strong>But</strong> i been wanting to take a course for all of the markup languages and programming languages like html,css,js because i feel like i havent gotten a real understaning a html, i have but i feel like i have forgotten most of the tags meaning. Like i feel like i cant create a a unique project and everytime i do i just cant structure the html,css like the figma design</p>
-<p><strong>NOTE:</strong>I plan on:</p>
+<p>Right now, I’m switching up my portfolio ‘cause I don’t really like how it looks. I’m thinking about making a new one. Also, I wanna take a course on HTML, CSS, and JS because I feel like I don’t fully understand HTML anymore—even though I kinda do. Sometimes I just can’t structure my code like the Figma design I make.</p>
+<p><strong>NOTE:</strong> Here’s what I plan to do next:</p>
 <ul>
-  <li>Dismiss mini project "Clicking Game" to a future project.</li>
-  <li>Dismiss Any other projects i have that i honestly dont know.</li>
-  <li>Continue to design my game on my freetime</li>
-  <li>Get a further understanding in web developement in HTML,CSS,JS etc </li>
-  <li>Watch Videos On HTML CSS JS</li>
+  <li>Put the mini clicker game on hold for now</li>
+  <li>Drop other projects I’m not sure about</li>
+  <li>Keep designing my game on my free time</li>
+  <li>Get a better understanding of web development — HTML, CSS, JS, etc.</li>
+  <li>Watch videos on HTML, CSS, and JavaScript</li>
 </ul>
+
 <hr>
 <h1>Day 15</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Got some undertanding in js like varibales and declaring one and if, else statement</li>
+  <li>Learned about JavaScript variables and how to declare them</li>
+  <li>Practiced if/else statements</li>
+  <li>Watched a video on JS game development basics</li>
+  <li>Understood strings, booleans, and other key JS concepts</li>
 </ul>
-<p>Writing this 2 days later.. on that day i watched a vudeo on js on game development i actually got to undertand some basics like declaring vars by let, const and var. and got actually a depper understanding on if else statements and key words of js like strings, and booleans.</p>
+<p>Writing this a couple days later… On that day I watched a video about JS for game development and finally understood some basics like let, const, var, and if/else statements. Also got a better grip on key stuff like strings and booleans.</p>
+
 <hr>
 <h1>Day 16</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Watched "Learn Javascript with this project", on youtube</li>
-  <li>Started a recipe page using html</li>
+  <li>Watched “Learn JavaScript with this project” on YouTube</li>
+  <li>Started building a recipe page using HTML</li>
+  <li>Practiced structuring HTML and adding CSS</li>
+  <li>Got inspired by TikTok to build this project</li>
 </ul>
-<p>Actually i started the recipe page on day 15. i started a recipe page since i got some insporation on tiktok so i decided to start one since it gonna let me get a understanding of html again since i said i wanted to watch videos on css and html since i wanted to get a rewind of it again. im honestly very exited to start this project since im not gonna ruch it and take my time, and gonna stick with this project for a while.</p>
+<p>Actually, I started the recipe page on Day 15. I got inspired by TikTok to build it so I could refresh my HTML skills since I wanted to revisit HTML and CSS. I’m really excited to take my time on this project and not rush it — planning to stick with it for a while.</p>
+
 <hr>
 <h1>Day 17</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Lorem ipsum dolor sit amet</li>
+  <li>Took a break from heavy coding</li>
+  <li>Studied CSS tips and tricks</li>
+  <li>Practiced styling layouts and colors</li>
+  <li>Thought about next steps for projects</li>
 </ul>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+<p>Decided to take it easy and focus on learning some CSS tips and tricks. Gotta get those styles down before jumping back into coding new stuff.</p>
+
 <hr>
 <h1>Day 18</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>On Day 17-18 i Started and Finsihed Nav Bars on my recipe web project</li>
+  <li>Started working on navigation bars for recipe project</li>
+  <li>Added dropdown features with CSS and JavaScript</li>
+  <li>Tested nav bar on different screen sizes</li>
+  <li>Finished nav bar setup on Day 18</li>
 </ul>
-<p>Writing this 1 day later, on that day i began my nav bar since i didnt want to keep my recipe page just with html and added some css so i began by creating nav bars with some features like deopdowns</p>
+<p>Writing this a day later, I started my nav bars since I didn’t want to keep the recipe page just HTML — added some CSS and dropdown features too.</p>
+
 <hr>
 <h1>Day 19</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Started - Finsihed ... Home section for my introduction of my website</li>
-  <li>Started later on the day on my recipe section</li>
+  <li>Created the Home section intro for my website</li>
+  <li>Laid out image and text</li>
+  <li>Started recipe cards with images, titles, and links</li>
+  <li>Noticed some sizing issues with card layout</li>
 </ul>
-<p>Today in the morning i started on my home section laying out the img and the introduction of my website, later on the day i decided i wanted to start the recipe page. i started laying out the divs or the card box where the image of the food is displayed and the title and the link. All tho it has some issues since the box is not on the right size of the image making it look very bad.</p>
+<p>This morning I laid out the image and intro for my homepage. Later, I began working on the recipe cards — the image, title, and link boxes. Some sizing issues made it look off, but I’ll fix that later.</p>
+
 <hr>
 <h1>Day 20</h1>
 <h3>What i did:</h3>
 <ul>
-  <li>Lorem ipsum dolor sit amet</li>
+  <li>Took a short break and reviewed my past projects</li>
+  <li>Fixed some minor issues and bugs</li>
+  <li>Thought about ideas for next projects</li>
+  <li>Prepared for upcoming coding sessions</li>
 </ul>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam</p>
+<p>Took today off from starting anything new and just reviewed what I’ve done so far. Fixed some minor issues and thought about what to build next.</p>
 <hr>
 <h1>Day 21</h1>
 <h3>What I did:</h3>
@@ -248,3 +322,29 @@
   <li>Took another light day to reset and not rush it</li>
 </ul>
 <p>Another chill day. No pressure — just giving myself time to figure out what’s next without forcing it. Sometimes you need space before the next idea hits.</p>
+<hr>
+<h1>Day 30 !</h1>
+
+<h3>What I did:</h3>
+<ul>
+  <li>Reflected on the full 30-day journey</li>
+  <li>Reviewed my past projects and progress</li>
+  <li>Cleaned up GitHub repos and portfolio site</li>
+  <li>Wrote a final recap and celebration</li>
+</ul>
+
+<h3>What I learned:</h3>
+<ul>
+  <li>How powerful daily consistency is, even on small tasks</li>
+  <li>Improved in HTML, CSS, JavaScript, and UI/UX thinking</li>
+  <li>How to push through blocks and keep momentum going</li>
+  <li>How to start and finish real projects confidently</li>
+</ul>
+
+<h3>What's next:</h3>
+<ul>
+  <li>Start a new JavaScript-focused project</li>
+  <li>Make more portfolio-worthy websites or tools</li>
+  <li>Keep practicing small challenges daily</li>
+</ul>
+
