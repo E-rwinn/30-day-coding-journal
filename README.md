@@ -10,7 +10,6 @@
   <li><strong>Consistency:</strong> Coded or checked in every day</li>
   <li><strong>Mindset:</strong> Learned to take breaks when needed, reflect, and enjoy the process rather than rushing it</li>
 </ul>
-<p>This challenge helped build momentum, habits, and confidence. It’s just the beginning of what’s possible.</p>
 
 <hr>
 <h1>Day 1</h1>
@@ -20,7 +19,7 @@
   <li>Styled the header section with CSS</li>
   <li>Laid down the basic layout for the project</li>
 </ul>
-<p>Today was the first day of my 30-day coding challenge. I wasn’t really sure what to build at first, so I decided to start small with a mini quote generator. I focused on getting the HTML structure set up and played around with styling the header using CSS — trying out colors, fonts, and spacing to make it look clean and simple. It was a nice way to get back into coding without feeling overwhelmed. I’m excited to add more features like JavaScript later, but for now, just laying down the basics felt good and gave me some momentum to keep going.</p>
+<p>Today was the first day of my 30-day coding challenge. I wasn’t really sure what to build at first, so I decided to start small with a mini quote generator. I focused on getting the HTML structure set up and played around with styling the header using CSS, trying out colors</p>
 <hr>
 <h1>Day 2</h1>
 <h3>What I did:</h3>
